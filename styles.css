@@ -33,6 +33,7 @@ html, body
 .header
 {
 	font-family: Helvetica, Sans-Serif;
+	hyphens: none;
 	padding: 18px 15px 0px 15px;
 	text-align: center;
 }
@@ -121,6 +122,12 @@ img.below-title
 	font-family: Helvetica, Sans-Serif;
 	margin-top: 25px;
 	text-align: center;
+}
+
+.islam-symbol
+{
+	display: inline-block;
+	transform: translate(0, 2px);
 }
 
 a
@@ -231,4 +238,10 @@ li
 {
 	body { width: 730px; }
 	.main-div { padding: 0px 39px 30px 39px; }
+
+	.islam-symbol
+	{
+		display: inline-block;
+		transform: translate(0, 0);
+	}
 }
