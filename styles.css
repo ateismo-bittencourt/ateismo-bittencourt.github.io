@@ -127,7 +127,8 @@ img.below-title
 .islam-symbol
 {
 	display: inline-block;
-	transform: translate(0, 1px);
+	font-size: 1.1rem;
+	transform: translate(0, 2px);
 }
 
 a
