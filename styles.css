@@ -106,6 +106,8 @@ cite { font-style: normal; }
 }
 
 .counseling li { text-align: left; }
+.covers { margin: 46px -38px 0px -38px; }
+.covers img { width: 100%; }
 
 .footer
 {
@@ -415,6 +417,7 @@ ul, ol { margin-left: -19px; }
 		text-align: initial;
 	}
 
+	.covers { margin: 46px -14px 0px -14px; }
 	.index-links { margin-top: 24px; }
 
 	.index-links h5
