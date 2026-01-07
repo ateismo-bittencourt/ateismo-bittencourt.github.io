@@ -276,7 +276,7 @@ li:not(:first-child) { margin-top: 7px; }
 {
 	display: grid;
 	font-size: 1.4rem;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
+	grid-template-columns: 1fr 1fr 1fr;
 	line-height: 1.15;
 	margin-top: 19px;
 }
