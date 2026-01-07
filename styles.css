@@ -190,13 +190,6 @@ h6
 	text-wrap: balance;
 }
 
-.helvetica
-{
-	font-family: 'Helvetica', Sans-Serif;
-	font-size: 1.05rem;
-	letter-spacing: 0.01rem;
-}
-
 .header
 {
 	font-family: 'Helvetica', Sans-Serif;
@@ -213,6 +206,13 @@ h6
 	height: 1px;
 	margin-top: -2px;
 	margin-bottom: 23px;
+}
+
+.helvetica
+{
+	font-family: 'Helvetica', Sans-Serif;
+	font-size: 1.05rem;
+	letter-spacing: 0.01rem;
 }
 
 img { max-width: 100%; }
