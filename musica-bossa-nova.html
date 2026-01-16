@@ -9,7 +9,7 @@
 	<meta property="og:image" content="media/paulo-bittencourt-musica-bossa-nova.jpg">
 	<style>		.player
 		{
-			border: solid 1px #999;
+			border: solid 1px #bbb;
 			border-radius: 4px;
 			color: #000;
 			margin-top: 31px;
@@ -25,12 +25,12 @@
 
 		.controls
 		{
-			border-left: solid 1px #bbb;
-			border-top: solid 1px #bbb;
-			border-right: solid 1px #bbb;
+			border-left: solid 1px #999;
+			border-top: solid 1px #999;
+			border-right: solid 1px #999;
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
-			margin-top: -1px;
+			margin-top: 10px;
 		}
 
 		.controls button
@@ -44,7 +44,7 @@
 
 		.progress-container
 		{
-			border: solid 1px #bbb;
+			border: solid 1px #999;
 			cursor: pointer;
 			height: 10px;
 		}
@@ -58,9 +58,9 @@
 
 		.song-list
 		{
-			border-left: solid 1px #bbb;
-			border-right: solid 1px #bbb;
-			border-bottom: solid 1px #bbb;
+			border-left: solid 1px #999;
+			border-right: solid 1px #999;
+			border-bottom: solid 1px #999;
 			font-size: 1rem;
 			font-weight: normal;
 			max-height: 130px;
@@ -70,7 +70,7 @@
 
 		.song-list div
 		{
-			border-bottom: solid 1px #bbb;
+			border-bottom: solid 1px #ddd;
 			cursor: pointer;
 			padding: 3px 0px 0px 6px;
 		}
@@ -130,11 +130,13 @@
 			<span class="indent">A partir daí, a bossa nova conquistou o mundo inteiro. Segundo a revista <i>Performing Songwriter</i>, a música <i>Garota de Ipanema</i> é mundialmente a segunda canção mais gravada de todos os tempos.</span>
 		</p>
 		<div class="player roboto">
-			<h7 style="font-size: 1.3rem">A Música de Paulo Bittencourt</h7>
+			<h2 style="margin-top: 9px; font-size: 1.2rem; font-weight: normal">
+				A Música de Paulo Bittencourt
+			</h2>
 			<audio id="audio" src="media/music/01-aquarela-bossa-nova-paulo-bittencourt.mp3">
 			</audio>
 			<div class="controls">
-				<button style="border-right: solid 1px #bbb" onclick="prev()">Anterior</button><button style="border-right: solid 1px #bbb; font-size: 1rem" onclick="playPause()" id="playBtn">Tocar</button><button onclick="next()">Próxima</button>
+				<button style="border-right: solid 1px #999" onclick="prev()">Anterior</button><button style="border-right: solid 1px #999; font-size: 1rem" onclick="playPause()" id="playBtn">Tocar</button><button onclick="next()">Próxima</button>
 			</div>
 			<div class="progress-container" onclick="setProgress(event)">
 				<div class="progress" id="progress">
