@@ -131,13 +131,13 @@
 			</audio>
 			<div class="controls">
 				<div onclick="prev()" style="display: grid; place-items: center; border-left: solid 1px #999; transform: scaleX(-1)">
-					<img style="height: 10px" src="media/next.svg">
+					<img style="height: 13px" src="media/next.svg">
 				</div>
 				<div id="playBtn" onclick="playPause()" style="display: grid; place-items: center; border-right: solid 1px #999">
-					<img style="height: 15px" src="media/play.svg">
+					<img style="height: 17px" src="media/play.svg">
 				</div>
 				<div onclick="next()" style="display: grid; place-items: center">
-					<img style="height: 10px" src="media/next.svg">
+					<img style="height: 13px" src="media/next.svg">
 				</div>
 			</div>
 			<div class="progress-container" onclick="setProgress(event)">
@@ -234,18 +234,18 @@
 	];
 	let songIndex = 0;
 	function playPause(){
-	  if(audio.paused){ audio.play(); playBtn.innerHTML='<img style="height: 15px" src="media/pause.svg">'; }
-	  else{ audio.pause(); playBtn.innerHTML='<img style="height: 15px" src="media/play.svg">'; }
+	  if(audio.paused){ audio.play(); playBtn.innerHTML='<img style="height: 17px" src="media/pause.svg">'; }
+	  else{ audio.pause(); playBtn.innerHTML='<img style="height: 17px" src="media/play.svg">'; }
 	}
 	function next(){
 	  songIndex = (songIndex + 1) % songs.length;
 	  loadSong(songIndex);
-	  audio.play(); playBtn.innerHTML='<img style="height: 15px" src="media/pause.svg">';
+	  audio.play(); playBtn.innerHTML='<img style="height: 17px" src="media/pause.svg">';
 	}
 	function prev(){
 	  songIndex = (songIndex - 1 + songs.length) % songs.length;
 	  loadSong(songIndex);
-	  audio.play(); playBtn.innerHTML='<img style="height: 15px" src="media/pause.svg">';
+	  audio.play(); playBtn.innerHTML='<img style="height: 17px" src="media/pause.svg">';
 	}
 	function loadSong(index){
 	  audio.src = songs[index];
@@ -255,7 +255,7 @@
 	  songIndex = index;
 	  loadSong(songIndex);
 	  audio.play();
-	  playBtn.innerHTML='<img style="height: 15px" src="media/pause.svg">';
+	  playBtn.innerHTML='<img style="height: 17px" src="media/pause.svg">';
 	}
 	function updateActiveSong(index){
 	  for(let i=0;i<songList.length;i++){
