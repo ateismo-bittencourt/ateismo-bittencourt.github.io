@@ -9,19 +9,8 @@
 	<meta property="og:image" content="media/paulo-bittencourt-musica-bossa-nova.jpg">
 	<style>		.player
 		{
-			border: solid 1px #bbb;
-			border-radius: 4px;
-			color: #000;
 			font-family: 'Roboto';
-			margin-top: 31px;
-			padding: 3px 10px 10px 10px;
-			text-align: center;
-		}
-
-		audio
-		{
-			margin-bottom: 20px;
-			width: 100%;
+			margin-top: -9px;
 		}
 
 		.controls
@@ -29,10 +18,10 @@
 			border-left: solid 1px #999;
 			border-top: solid 1px #999;
 			border-right: solid 1px #999;
+			cursor: pointer;
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
 			height: 32px;
-			margin-top: 10px;
 		}
 
 		.progress-container
@@ -140,21 +129,21 @@
 			<span class="indent">De passagem pelo Brasil, músicos norte-americanos e europeus entraram em contato com esse novo estilo musical, divulgando-o em seus países. A bossa nova se tornou tão popular nos Estados Unidos que, em 1962, músicos brasileiros foram convidados a se apresentar no Carnegie Hall, em Nova York, num concerto intitulado Bossa Nova (New Brazilian Jazz). No público estavam ícones do jazz, como Miles Davis, Tony Bennett, Peggy Lee e Herbie Mann. O concerto foi transmitido ao vivo para várias estações de rádio americanas e europeias. Duas semanas depois, a nata dos músicos da bossa nova se apresentou no Auditório George Washington e foi recebida na Casa Branca por Jacqueline Kennedy.</span><br>
 			<span class="indent">A partir daí, a bossa nova conquistou o mundo inteiro. Segundo a revista <i>Performing Songwriter</i>, a música <i>Garota de Ipanema</i> é mundialmente a segunda canção mais gravada de todos os tempos.</span>
 		</p>
+		<h5>
+			A Música de Paulo Bittencourt
+		</h5>
 		<div class="player">
-			<h2 style="margin-top: 9px; font-size: 1.2rem">
-				A Música de Paulo Bittencourt
-			</h2>
 			<audio id="audio" src="media/music/01-aquarela-bossa-nova-paulo-bittencourt.mp3">
 			</audio>
 			<div class="controls">
 				<div onclick="prev()" style="display: grid; place-items: center; border-left: solid 1px #999; transform: scaleX(-1)">
-					<img style="height: 13px" src="media/next.svg">
+					<img style="height: 13px" alt="anterior" src="media/next.svg">
 				</div>
 				<div id="playBtn" onclick="playPause()" style="display: grid; place-items: center; border-right: solid 1px #999">
-					<img style="margin-left: 6px; height: 17px" src="media/play.svg">
+					<img style="margin-left: 6px; height: 17px" alt="tocar" src="media/play.svg">
 				</div>
 				<div onclick="next()" style="display: grid; place-items: center">
-					<img style="height: 13px" src="media/next.svg">
+					<img style="height: 13px" alt="próxima" src="media/next.svg">
 				</div>
 			</div>
 			<div onclick="setProgress(event)" class="progress-container">
