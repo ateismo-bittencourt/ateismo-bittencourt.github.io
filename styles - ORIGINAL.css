@@ -1,27 +1,27 @@
 @font-face {
-    font-family: 'Constantia';
-    src: url('media/Font-Constantia.woff2') format('woff2');
+    font-family: 'Libre Baskerville';
+    src: url('media/Font-Libre-Baskerville.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'Constantia';
-    src: url('media/Font-Constantia-Bold.woff2') format('woff2');
+    font-family: 'Libre Baskerville';
+    src: url('media/Font-Libre-Baskerville-Semi-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'Constantia';
-    src: url('media/Font-Constantia-Italic.woff2') format('woff2');
+    font-family: 'Libre Baskerville';
+    src: url('media/Font-Libre-Baskerville-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
-    font-family: 'Constantia';
-    src: url('media/Font-Constantia-Italic-Bold.woff2') format('woff2');
+    font-family: 'Libre Baskerville';
+    src: url('media/Font-Libre-Baskerville-Italic-Semi-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -59,7 +59,7 @@ html, body
 {
 	background: #f5f5f5;
 	color: #000;
-	font-family: 'Constantia', Georgia, Serif;
+	font-family: 'Libre Baskerville', Georgia, Serif;
 	font-size: 1rem;
 	hyphens: auto;
 	margin: 0 auto;
@@ -78,12 +78,12 @@ a
 .arrow
 {
 	color: #999;
-	font-family: 'Constantia';
+	font-family: 'Libre Baskerville';
 }
 
 .below-copyright
 {
-	margin: 52px 0px 0px 0px;
+	margin: 51px 0px 0px 0px;
 	text-indent: 0px;
 }
 
@@ -95,13 +95,13 @@ a
 
 .below-h1
 {
-	margin: -9px 0px 0px 0px;
+	margin: -11px 0px 0px 0px;
 	text-indent: 0px;
 }
 
 .below-h5
 {
-	margin: -15px 0px 0px 0px;
+	margin: -18px 0px 0px 0px;
 	text-indent: 0px;
 }
 
@@ -109,13 +109,13 @@ a
 
 .below-quote-author
 {
-	margin: 0px;
+	margin: -2px 0px 0px 0px;
 	text-indent: 0px;
 }
 
 .below-quote-source
 {
-	margin: -2px 0px 0px 0px;
+	margin: -4px 0px 0px 0px;
 	text-indent: 0px;
 }
 
@@ -125,6 +125,7 @@ a
 	font-size: 1.05rem;
 	letter-spacing: 0.01rem;
 	line-height: 1.15;
+	margin: 7px 0px;
 	text-align: center;
 	text-indent: 0px;
 	text-wrap: balance;
@@ -135,7 +136,7 @@ cite { font-style: normal; }
 .contact-links
 {
 	font-size: 0.85rem;
-	margin: 39px 0px 26px 0px;
+	margin: 37px 0px 26px 0px;
 }
 
 .contact-links p
@@ -182,7 +183,7 @@ cite { font-style: normal; }
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 0.9rem;
 	letter-spacing: 0.01rem;
-	margin-top: 22px;
+	margin-top: 23px;
 	text-indent: 0px;
 }
 
@@ -244,7 +245,7 @@ h5
 	font-size: 1.5rem;
 	font-weight: normal;
 	line-height: 1.35;
-	margin: 36px 0px;
+	margin: 37px 0px;
 	text-align: center;
 	text-wrap: balance;
 }
@@ -254,7 +255,7 @@ h6
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 1.3rem;
 	font-weight: normal;
-	line-height: 1.4;
+	line-height: 1.45;
 	margin: -15px 0px;
 	text-align: center;
 	text-wrap: balance;
@@ -296,7 +297,7 @@ img.below-h1
 
 .index-links h5
 {
-	font-family: 'Constantia', Georgia, Serif;
+	font-family: 'Libre Baskerville', Georgia, Serif;
 	font-size: 1.1rem;
 	line-height: 1.4;
 	margin: 15px 0px;
@@ -308,7 +309,7 @@ img.below-h1
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 1.05rem;
 	letter-spacing: 0.01rem;
-	margin-top: 20px;
+	margin-top: 25px;
 	text-align: center;
 	text-indent: 0px;
 }
@@ -319,7 +320,7 @@ img.below-h1
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 1.05rem;
 	letter-spacing: 0.01rem;
-	margin-top: 20px;
+	margin-top: 23px;
 	text-align: center;
 	text-indent: 0px;
 }
@@ -352,15 +353,15 @@ li:not(:first-child) { margin-top: 7px; }
 	font-size: 1.4rem;
 	grid-template-columns: 1fr 1fr 1fr;
 	line-height: 1.15;
-	margin-top: 22px;
+	margin-top: 19px;
 }
 
 .navigation-button-top-left
 {
 	font-size: 1.4rem;
 	position: absolute;
-	top: 21px;
-	left: 20px;
+	top: 13px;
+	left: 15px;
 }
 
 .navigation-separator
@@ -402,7 +403,7 @@ p
 	font-weight: bold;
 	letter-spacing: 0.01rem;
 	line-height: 1.4;
-	margin: 20px 40px 0px 40px;
+	margin: 22px 40px 0px 40px;
 	text-align: left;
 	text-indent: -0.75ch;
 }
@@ -442,7 +443,7 @@ p
 {
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 0.9rem;
-	margin-top: 25px;
+	margin-top: 27px;
 	text-align: center;
 	text-indent: 0px;
 }
@@ -461,8 +462,8 @@ p
 	color: #999;
 	font-size: 1.3rem;
 	line-height: 0;
-	margin-top: 40px;
-	margin-bottom: 35px;
+	margin-top: 39px;
+	margin-bottom: 37px;
 	text-align: center;
 	text-indent: 0px;
 }
@@ -489,7 +490,7 @@ p
 	text-indent: 0px;
 }
 
-ul, ol { margin: 20px 0px 22px -19px; }
+ul, ol { margin: 23px 0px 20px -19px; }
 
 .video
 {
@@ -546,8 +547,6 @@ ul, ol { margin: 20px 0px 22px -19px; }
 		-webkit-text-stroke: 3px #fff;
 		text-stroke: 3px #fff;
 		paint-order: stroke fill;
-		top: 13px;
-		left: 15px;
 	}
 
 	.wrapper
@@ -562,9 +561,21 @@ ul, ol { margin: 20px 0px 22px -19px; }
 @media only screen and (min-width: 750px)
 {
 	html, body { width: 800px; }
-	.contact-links { font-size: 0.9rem; }
+
+	.contact-links
+	{
+		font-size: 0.9rem;
+		margin: 37px 0px 26px 0px;
+	}
+
 	.counseling li { text-align: justify; }
-	.main-div { padding: 0px 38px 34px 38px; }
+	.main-div { padding: 0px 38px 36px 38px; }
+
+	.navigation-button-corner
+	{
+		top: 39px;
+		left: 40px;
+	}
 
 	.poem
 	{
