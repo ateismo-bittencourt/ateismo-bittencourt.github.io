@@ -527,6 +527,7 @@ ul, ol { margin: 20px 0px 22px -19px; }
 		text-align: initial;
 	}
 
+	.caption { font-size: 0.95rem; }
 	.covers { width: 55%; }
 
 	.index-links h5
