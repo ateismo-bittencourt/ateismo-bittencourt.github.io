@@ -47,6 +47,8 @@
     font-style: italic;
     font-display: swap;
 }
+
+/*
 @font-face {
     font-family: 'Roboto';
     src: url('media/Font-Roboto-Italic-Semi-Bold.woff2') format('woff2');
@@ -54,6 +56,7 @@
     font-style: italic;
     font-display: swap;
 }
+*/
 
 html, body
 {
