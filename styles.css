@@ -380,7 +380,7 @@ li:not(:first-child) { margin-top: 7px; }
 }
 
 .no-indent { text-indent: 0px; }
-.numbered-quotes { margin: 0px; }
+.numbered-quotes { margin: 1px 0px; }
 
 p
 {
@@ -546,8 +546,8 @@ ul, ol { margin: 20px 0px 22px -19px; }
 		-webkit-text-stroke: 3px #fff;
 		text-stroke: 3px #fff;
 		paint-order: stroke fill;
-		top: 13px;
-		left: 15px;
+		top: 16px;
+		left: 14px;
 	}
 
 	.wrapper
