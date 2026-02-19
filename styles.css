@@ -540,7 +540,7 @@ ul { margin: 20px 0px 20px -19px; }
 		-webkit-text-stroke: 3px #fff;
 		text-stroke: 3px #fff;
 		paint-order: stroke fill;
-		top: 16px;
+		top: 10px;
 		left: 14px;
 	}
 }
