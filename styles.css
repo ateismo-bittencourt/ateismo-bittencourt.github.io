@@ -372,7 +372,7 @@ li:not(:first-child) { margin-top: 5px; }
 {
 	font-size: 1.4rem;
 	position: absolute;
-	top: 20px;
+	top: 15px;
 	left: 20px;
 }
 
