@@ -550,7 +550,7 @@ ul
 		margin: 0px;
 	}
 
-	.content { padding: 0px 14px 5px 14px; }
+	.content { padding: 0px 14px 10px 14px; }
 	.covers { width: 55%; }
 
 	.index-links h5
@@ -573,7 +573,7 @@ ul
 .navigation-bottom
 {
 	font-size: 1.4rem;
-	margin-top: 21px;
+	margin-top: 23px;
 }
 
 
