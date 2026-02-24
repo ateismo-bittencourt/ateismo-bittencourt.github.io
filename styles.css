@@ -378,8 +378,6 @@ li:not(:first-child) { margin-top: 5px; }
 	margin-top: 20px;
 }
 
-.navigation-bottom-arrows { xxx: ; }
-
 .navigation-bottom-pagination
 {
 	font-size: 1rem;
@@ -568,6 +566,7 @@ ul
 		left: 9px;
 		background: #fff;
 		border-radius: 6px;
+		font-size: 1.15rem;
 		line-height: 0.8;
 		padding: 11px 5px 4px 5px;
 	}
