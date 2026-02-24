@@ -572,7 +572,12 @@ ul
 		padding: 11px 5px 4px 5px;
 	}
 
-	.navigation-bottom { margin-top: 22px; }
+	.navigation-bottom
+	{
+		font-size: 1.4rem;
+		margin-top: 22px;
+	}
+
 	.navigation-bottom-arrows { line-height: 0.8; }
 
 	.photography-album
