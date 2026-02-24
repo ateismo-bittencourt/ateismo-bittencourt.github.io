@@ -574,11 +574,11 @@ ul
 
 	.navigation-bottom
 	{
-		font-size: 1.2rem;
+		font-size: 1.15rem;
 		margin-top: 22px;
 	}
 
-	.navigation-bottom-arrows { line-height: 0.8; }
+	.navigation-bottom-arrows { line-height: 1.1; }
 
 	.photography-album
 	{
