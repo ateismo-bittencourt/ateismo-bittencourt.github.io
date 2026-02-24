@@ -550,7 +550,7 @@ ul
 		margin: 0px;
 	}
 
-	.content { padding: 0px 14px 10px 14px; }
+	.content { padding: 0px 14px 11px 14px; }
 	.covers { width: 55%; }
 
 	.index-links h5
@@ -565,7 +565,7 @@ ul
 .navigation-arrows
 {
 	font-size: 1.1rem;
-	line-height: 1;
+	line-height: 1.2;
 }
 
 
@@ -583,6 +583,7 @@ ul
 		left: 9px;
 		background: #fff;
 		border-radius: 6px;
+	font-size: 1.4rem;
 		line-height: 0.8;
 		padding: 12px 5px 4px 5px;
 	}
