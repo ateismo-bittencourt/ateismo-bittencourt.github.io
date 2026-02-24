@@ -566,11 +566,7 @@ ul
 		line-height: 1.55;
 	}
 
-	.navigation-bottom
-	{
-		font-size: 1.5rem;
-		margin-top: 18px;
-	}
+	.navigation-bottom { font-size: 1.5rem; }
 
 	.navigation-bottom-arrows
 	{
