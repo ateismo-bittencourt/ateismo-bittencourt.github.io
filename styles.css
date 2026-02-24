@@ -575,10 +575,14 @@ ul
 	.navigation-bottom
 	{
 		font-size: 1.15rem;
-		margin-top: 22px;
+		margin-top: 23px;
 	}
 
-	.navigation-bottom-arrows { line-height: 1.1; }
+	.navigation-bottom-arrows
+	{
+		font-size: 1.15rem;
+		line-height: 1;
+	}
 
 	.photography-album
 	{
