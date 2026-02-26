@@ -556,12 +556,12 @@ ul
 
 	.navigation-top
 	{
-		top: 14px;
+		top: 17px;
 		left: 14px;
 		-webkit-text-stroke: 2px #fff;
 		text-stroke: 2px #fff;
 		paint-order: stroke fill;
 	}
 
-	.navigation-bottom { margin-top: 23px; }
+	.navigation-bottom { margin-top: 24px; }
 }
