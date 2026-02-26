@@ -553,12 +553,7 @@ ul
 	}
 
 	.content { padding: 0px 14px 11px 14px; }
-
-	.logo
-	{
-		margin-top: 14px;
-		outline: solid 1px red;
-	}
+	.logo { margin-top: 14px; }
 
 	.navigation-top
 	{
