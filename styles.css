@@ -554,12 +554,12 @@ ul
 
 	.content { padding: 0px 14px 11px 14px; }
 
-	.navigation-button-top
+	.navigation-top
 	{
 		top: 10px;
 		left: 14px;
-		-webkit-text-stroke: 7px #fff;
-		text-stroke: 7px #fff;
+		-webkit-text-stroke: 2px #fff;
+		text-stroke: 2px #fff;
 		paint-order: stroke fill;
 	}
 }
