@@ -373,7 +373,7 @@ li:not(:first-child) { margin-top: 5px; }
 .navigation-bottom
 {
 	display: grid;
-	font-size: 3.5rem;
+	font-size: 1.5rem;
 	grid-template-columns: 1fr 1fr 1fr;
 	line-height: 1;
 	margin-top: 20px;
