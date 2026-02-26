@@ -175,7 +175,7 @@ cite { font-style: normal; }
 	margin-top: 19px;
 }
 
-.content { padding: 0px 38px 33px 38px; }
+.content { padding: 0px 39px 33px 39px; }
 
 .copyright
 {
@@ -564,5 +564,10 @@ ul
 		paint-order: stroke fill;
 	}
 
-	.navigation-bottom { margin-top: 24px; }
+	.navigation-bottom
+	{
+		font-size: 1.15rem;
+		line-height: 1.15;
+		margin-top: 22px;
+	}
 }
