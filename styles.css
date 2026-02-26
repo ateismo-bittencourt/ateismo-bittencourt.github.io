@@ -553,4 +553,13 @@ ul
 	}
 
 	.content { padding: 0px 14px 11px 14px; }
+
+	.navigation-button-top
+	{
+		top: 10px;
+		left: 14px;
+		-webkit-text-stroke: 7px #fff;
+		text-stroke: 7px #fff;
+		paint-order: stroke fill;
+	}
 }
