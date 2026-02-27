@@ -545,6 +545,8 @@ ul
 		width: 100%;
 	}
 
+	.below-covers { margin: 7px 0px 0px 0px; }
+
 	.container
 	{
 		background-image: url('media/container-background-mobile.jpg');
@@ -553,7 +555,13 @@ ul
 	}
 
 	.content { padding: 0px 14px 17px 14px; }
-	.covers { width: 60%; }
+
+	.covers
+	{
+		margin-top: 16px;
+		width: 60%;
+	}
+
 	.logo { margin-top: 14px; }
 
 	.navigation-top
