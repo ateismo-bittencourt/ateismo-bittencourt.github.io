@@ -575,7 +575,8 @@ ul
 
 	.navigation-bottom
 	{
-
+	font-size: 1.16rem;
+	margin-top: 24px;
 	}
 
 	.navigation-bottom-pagination { line-height: 1.2; }
