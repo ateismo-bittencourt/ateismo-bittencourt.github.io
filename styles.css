@@ -373,10 +373,21 @@ li:not(:first-child) { margin-top: 5px; }
 .navigation-bottom
 {
 	display: grid;
-	font-size: 1.14rem;
 	grid-template-columns: 1fr 1fr 1fr;
-	line-height: 1;
 	margin-top: 22px;
+}
+
+.navigation-bottom-arrows
+{
+	font-size: 1.14rem;
+	line-height: 1;
+}
+
+.navigation-bottom-button
+{
+	font-size: 1.14rem;
+	line-height: 1;
+	text-align: center;
 }
 
 .navigation-bottom-pagination
@@ -573,11 +584,14 @@ ul
 		paint-order: stroke fill;
 	}
 
-	.navigation-bottom
+	.navigation-bottom { margin-top: 23px; }
+
+	.navigation-bottom-arrows
 	{
-		font-size: 1.25rem;
-		margin-top: 23px;
+		font-size: 1.35rem;
+		line-height: 0.9;
 	}
 
+	.navigation-bottom-button { font-size: 1.2rem; }
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
