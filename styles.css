@@ -573,11 +573,6 @@ ul
 		paint-order: stroke fill;
 	}
 
-	.navigation-bottom
-	{
-	font-size: 1.2rem;
-	margin-top: 24px;
-	}
-
+	.navigation-bottom { font-size: 1.2rem; }
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
