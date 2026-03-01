@@ -374,21 +374,17 @@ li:not(:first-child) { margin-top: 5px; }
 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	margin-top: 22px;
-}
-
-.navigation-bottom-arrows
-{
-	font-size: 1.14rem;
 	line-height: 1;
+	margin-top: 22px;
 }
 
 .navigation-bottom-button
 {
 	font-size: 1.14rem;
-	line-height: 1;
 	text-align: center;
 }
+
+.navigation-bottom-arrows { font-size: 1.14rem; }
 
 .navigation-bottom-pagination
 {
@@ -585,13 +581,7 @@ ul
 	}
 
 	.navigation-bottom { margin-top: 23px; }
-
-	.navigation-bottom-arrows
-	{
-		font-size: 1.35rem;
-		line-height: 0.9;
-	}
-
 	.navigation-bottom-button { font-size: 1.2rem; }
+	.navigation-bottom-arrows { font-size: 1.4rem; }
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
