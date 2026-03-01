@@ -378,13 +378,13 @@ li:not(:first-child) { margin-top: 5px; }
 	margin-top: 22px;
 }
 
+.navigation-bottom-arrows { font-size: 1.14rem; }
+
 .navigation-bottom-button
 {
 	font-size: 1.14rem;
 	text-align: center;
 }
-
-.navigation-bottom-arrows { font-size: 1.14rem; }
 
 .navigation-bottom-pagination
 {
@@ -581,13 +581,13 @@ ul
 	}
 
 	.navigation-bottom { margin-top: 23px; }
-	.navigation-bottom-button { font-size: 1.2rem; }
 
 	.navigation-bottom-arrows
 	{
-		font-size: 1.2rem;
+		font-size: 1.19rem;
 		line-height: 0.95;
 	}
 
+	.navigation-bottom-button { font-size: 1.2rem; }
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
