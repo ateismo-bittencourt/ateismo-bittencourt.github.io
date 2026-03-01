@@ -582,6 +582,12 @@ ul
 
 	.navigation-bottom { margin-top: 23px; }
 	.navigation-bottom-button { font-size: 1.2rem; }
-	.navigation-bottom-arrows { font-size: 1.4rem; }
+
+	.navigation-bottom-arrows
+	{
+		font-size: 1.4rem;
+		line-height: 0.9;
+	}
+
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
