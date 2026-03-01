@@ -581,13 +581,7 @@ ul
 	}
 
 	.navigation-bottom { margin-top: 23px; }
-
-	.navigation-bottom-arrows
-	{
-		font-size: 1.19rem;
-		line-height: 0.95;
-	}
-
+	.navigation-bottom-arrows { font-size: 1.19rem; }
 	.navigation-bottom-button { font-size: 1.2rem; }
 	.navigation-bottom-pagination { line-height: 1.2; }
 }
