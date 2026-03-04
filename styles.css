@@ -550,12 +550,12 @@ ul
 	height: 100%;
 }
 
-@media only screen and (max-width: 410px)
+@media only screen and (max-width: 460px)
 {
 	.container
 	{
 		background-image: url('media/container-background.jpg');
-		background-size: 410px;
+		background-size: 460px;
 	}
 }
 
