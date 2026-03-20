@@ -550,23 +550,6 @@ ul
 	height: 100%;
 }
 
-@media only screen and (max-width: 414px)
-{
-	.container
-	{
-		background-position: center top;
-		background-repeat: no-repeat;
-		background-size: 414px;
-	}
-
-	.logo
-	{
-		filter: drop-shadow(0px 0px 15px #fff);
-		margin-top: 19px;
-		width: 100px;
-	}
-}
-
 @media only screen and (max-width: 749px)
 {
 	html, body
@@ -618,4 +601,15 @@ ul
 
 	.navigation-bottom-arrows { font-size: 1.19rem; }
 	.navigation-bottom-button { font-size: 1.2rem; }
+}
+
+@media only screen and (max-width: 414px)
+{
+	.container { background-size: 414px; }
+
+	.logo
+	{
+		margin-top: 0px;
+		width: 125px;
+	}
 }
