@@ -55,6 +55,8 @@ Livros “Liberto da Religião”, “Perdendo Tempo Com Deus” e “Com Zeus N
 
 Apenas em inglês:
 
+<a href="https://bittencourt.pages.dev/scripture">The Word of Flawed</a>
+
 <a href="https://bittencourt.pages.dev/jesus">Christianity is a Cult</a>
 
 <a href="https://bittencourt.pages.dev/religions">The Main Types of Religious Harm</a>
