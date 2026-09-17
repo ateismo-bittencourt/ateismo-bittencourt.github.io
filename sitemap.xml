@@ -1,86 +1,403 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--    created with www.mysitemapgenerator.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-       <loc>https://bittencourt-pt.pages.dev/</loc>
+    <loc>https://bittencourt-pt.pages.dev/</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-livre-pensamento-humanismo-ateismo.gif</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/livros</loc>
+    <loc>https://bittencourt-pt.pages.dev/livros</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/livro-liberto-da-religiao-paulo-bittencourt.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/livro-perdendo-tempo-com-deus-paulo-bittencourt.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/livro-com-zeus-nao-se-brinca-paulo-bittencourt.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/livre-pensamento</loc>
+    <loc>https://bittencourt-pt.pages.dev/livre-pensamento</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/humanismo</loc>
+    <loc>https://bittencourt-pt.pages.dev/humanismo</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/ateismo</loc>
+    <loc>https://bittencourt-pt.pages.dev/ateismo</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/ateismo-mata</loc>
+    <loc>https://bittencourt-pt.pages.dev/ateismo-mata</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/biblia</loc>
+    <loc>https://bittencourt-pt.pages.dev/biblia</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/humanista</loc>
+    <loc>https://bittencourt-pt.pages.dev/humanista</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/criacionismo</loc>
+    <loc>https://bittencourt-pt.pages.dev/criacionismo</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/satanistas</loc>
+    <loc>https://bittencourt-pt.pages.dev/satanistas</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/bolsonaro</loc>
+    <loc>https://bittencourt-pt.pages.dev/bolsonaro</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/religiao</loc>
+    <loc>https://bittencourt-pt.pages.dev/religiao</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/spinoza</loc>
+    <loc>https://bittencourt-pt.pages.dev/spinoza</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/Baruch-Spinoza-Paulo-Bittencourt.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/deus-existe</loc>
+    <loc>https://bittencourt-pt.pages.dev/deus-existe</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/deus</loc>
+    <loc>https://bittencourt-pt.pages.dev/deus</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/amor</loc>
+    <loc>https://bittencourt-pt.pages.dev/amor</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/reflexoes</loc>
+    <loc>https://bittencourt-pt.pages.dev/reflexoes</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/trauma-religioso</loc>
+    <loc>https://bittencourt-pt.pages.dev/trauma-religioso</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/frases</loc>
+    <loc>https://bittencourt-pt.pages.dev/frases</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-frase-nao-quero-crer-quero-saber.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/livrepensamento</loc>
+    <loc>https://bittencourt-pt.pages.dev/livrepensamento</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-livros-livre-pensamento-humanismo-ateismo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/paulo-biografia</loc>
+    <loc>https://bittencourt-pt.pages.dev/paulo-biografia</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-frase-nao-ha-prazer-maior-que-ser-um-livre-pensador.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/viena-austria</loc>
+    <loc>https://bittencourt-pt.pages.dev/viena-austria</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-escritor-violonista-cantor-musica-opera.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-escritor-violonista-cantor-musica-bossa-nova.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/musica-bossa-nova</loc>
+    <loc>https://bittencourt-pt.pages.dev/musica-bossa-nova</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt-musica-bossa-nova.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/frank-sinatra-tom-jobim-musica-bossa-nova-paulo-bittencourt.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/fotografia</loc>
+    <loc>https://bittencourt-pt.pages.dev/fotografia</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-06-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-07-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-08-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-09-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-10-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-11-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-12-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-13-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-14-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-15-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-16-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-17-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-18-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-19-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-20-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-21-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-22-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-23-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-24-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-25-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-26-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-27-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-28-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-29-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-30-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-31-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-32-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-33-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-34-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-35-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-36-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-37-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-38-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-39-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-40-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-41-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-42-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-43-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-44-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-45-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-46-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-47-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-48-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-49-mini.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/fotografia/paulo-bittencourt-fotografia-50-mini.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/sobrenome</loc>
+    <loc>https://bittencourt-pt.pages.dev/sobrenome</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/brasao-da-familia-bittencourt-e-bettencourt.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/agustin-de-betancourt-paulo-bittencourt.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-       <loc>https://bittencourt-pt.pages.dev/contato</loc>
-  </url>
-  <url>
-       <loc>https://bittencourt-pt.pages.dev/sitemap.xml</loc>
+    <loc>https://bittencourt-pt.pages.dev/contato</loc>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/paulo-bittencourt.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bittencourt-pt.pages.dev/media/livre-pensamento-humanismo-ateismo-liberto-da-religiao-paulo-bittencourt.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
