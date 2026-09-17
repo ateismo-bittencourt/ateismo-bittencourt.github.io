@@ -1,90 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-
-<url>
-  <loc>https://bittencourt-pt.pages.dev/</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/livros</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/livre-pensamento</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/humanismo</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/ateismo</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/ateismo-mata</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/biblia</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/humanista</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/criacionismo</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/satanistas</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/bolsonaro</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/religiao</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/spinoza</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/deus-existe</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/deus</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/amor</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/reflexoes</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/trauma-religioso</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/frases</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/livrepensamento</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/paulo-biografia</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/viena-austria</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/musica-bossa-nova</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/fotografia</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/sobrenome</loc>
-</url>
-<url>
-  <loc>https://bittencourt-pt.pages.dev/contato</loc>
-</url>
-
-
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/livros</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/livre-pensamento</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/humanismo</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/ateismo</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/ateismo-mata</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/biblia</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/humanista</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/criacionismo</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/satanistas</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/bolsonaro</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/religiao</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/spinoza</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/deus-existe</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/deus</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/amor</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/reflexoes</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/trauma-religioso</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/frases</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/livrepensamento</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/paulo-biografia</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/viena-austria</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/musica-bossa-nova</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/fotografia</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/sobrenome</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/contato</loc>
+  </url>
+  <url>
+       <loc>https://bittencourt-pt.pages.dev/sitemap.xml</loc>
+  </url>
 </urlset>
